@@ -21,9 +21,8 @@ JAVA_HOME="$HOME/apps/jdk-9.0.4"
 ANDROID_HOME="$HOME/apps/Android/Sdk"
 
 # set PATH so it includes user's private bin directories
-PATH="$HOME/bin:$HOME/.local/bin:$PATH:$JAVA_HOME/bin:$ANDROID_HOME/tools:$ANDROID_HOME
-/tools/bin:$ANDROID_HOME/platform-tools"
+PATH="$HOME/bin:$HOME/.local/bin:$PATH:$JAVA_HOME/bin:$ANDROID_HOME:$ANDROID_HOME/tools:$ANDROID_HOME/tools/bin:$ANDROID_HOME/platform-tools:/home/andrew/apps/Android/Sdk/build-tools/27.0.3:$HOME/apps/selenium/drivers"
 
 
 # alias
-alias v="ls -laF"
+alias v='ls -laF'
