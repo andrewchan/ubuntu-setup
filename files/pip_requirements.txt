@@ -11,7 +11,7 @@ colorama==0.3.9
 colorlog==3.1.4
 configparser==3.5.0
 coverage==4.5.1
-cryptography==2.2.2
+cryptography==3.2
 decorator==4.0.6
 enum34==1.1.6
 funcsigs==1.0.2
