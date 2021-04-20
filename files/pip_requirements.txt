@@ -30,7 +30,7 @@ more-itertools==4.2.0
 pexpect==4.0.1
 pluggy==0.6.0
 ptyprocess==0.5
-py==1.5.3
+py==1.10.0
 pycparser==2.18
 pylint==1.9.1
 pyOpenSSL==17.5.0
